@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Fheo
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://fheo18.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Alfi Syahry
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
+  twitter: alfhie_ssy #username
   facebook: deactivate.py #username
   google:
-    plus: kampar #username
+    plus: fheo18 #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: fheo18 #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

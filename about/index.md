@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Profil Alfi Syahry
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,16 +10,14 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+ini adalah web jekyill pertama saya, jika masih kurang baik harap dimaklumi saja, karna ini masih tahap belajar haha
 
-## Minimal Mistakes is all about:
+## Sedikit tentang saya :
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Lahir Pada 18 September 1995
+* Seorang Laki-laki
+* Anak ke 2 dari 4 bersaudara
+* Kota asal tembilahan, indragiri hilir, riau
+* Mahasiswa Uin Suska Riau Angkatan 2013
+* Fakultas sains dan teknologi
+* Jurusan sistem informasi

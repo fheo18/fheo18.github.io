@@ -317,6 +317,6 @@ ini adalah web jekyill pertama saya, jika masih kurang baik harap dimaklumi saja
 * Seorang Laki-laki
 * Anak ke 2 dari 4 bersaudara
 * Kota asal tembilahan, indragiri hilir, riau
-* Mahasiswa Uin Suska Riau Angkatan 2013
+* Mahasiswa [Uin Suska Riau](http://uin-suska.ac.id/) Angkatan 2013
 * Fakultas sains dan teknologi
-* Jurusan sistem informasi
+* Jurusan [sistem informasi](http://sif.uin-suska.ac.id/)

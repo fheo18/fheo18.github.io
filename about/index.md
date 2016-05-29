@@ -5,14 +5,14 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: 5.jpg
+  feature:#
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 ini adalah web jekyill pertama saya, jika masih kurang baik harap dimaklumi saja, karna ini masih tahap belajar haha
 
-## Sedikit tentang saya :
+## Sedikit tentang saya : 
 
 * Lahir Pada 18 September 1995
 * Seorang Laki-laki
